@@ -1,5 +1,7 @@
 syntax: glob
 .editorconfig
+.hg
+.hgignore
 
 .DS_Store
 node_modules
